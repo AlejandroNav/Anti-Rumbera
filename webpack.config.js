@@ -18,7 +18,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: './src/template.html',
-      title: 'Rumbera',
+      title: 'Rumbera Website',
     }),
   ],
   module: {
