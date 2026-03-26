@@ -15,7 +15,9 @@
   padding: 0;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-family: 'Handlee', cursive;
 }
 
@@ -232,7 +234,7 @@ footer {
 @media (max-width: 768px) {
   header {
     flex-direction: column;
-    padding: 1rem;
+    padding: 1.2rem;
     gap: 1rem;
   }
 
@@ -248,7 +250,7 @@ footer {
   }
 
   nav button {
-    font-size: 1rem;
+    font-size: 1.3rem;
     padding: 0.5rem 0.8rem;
   }
 
